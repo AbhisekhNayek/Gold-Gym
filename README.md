@@ -29,7 +29,7 @@ To run this application locally, follow these steps:
 2. Change into the project's directory:
 
    ```bash
-   cd gold-gym-react
+   cd Gold-Gym
    ```
 
 3. Install the dependencies:
